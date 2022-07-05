@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECatalogueAPI", "ECatalogueAPI\ECatalogueAPI.csproj", "{7A716FBD-110B-4A3C-A0D9-D3C74A06E80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECatalogueLibrary", "ECatalogueLibrary\ECatalogueLibrary.csproj", "{7D787B19-4C21-4F68-A74B-02B5423EA104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A716FBD-110B-4A3C-A0D9-D3C74A06E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A716FBD-110B-4A3C-A0D9-D3C74A06E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A716FBD-110B-4A3C-A0D9-D3C74A06E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A716FBD-110B-4A3C-A0D9-D3C74A06E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D787B19-4C21-4F68-A74B-02B5423EA104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D787B19-4C21-4F68-A74B-02B5423EA104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D787B19-4C21-4F68-A74B-02B5423EA104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D787B19-4C21-4F68-A74B-02B5423EA104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78A6A52-7EA3-4936-A724-686A5821E8BA}
+	EndGlobalSection
+EndGlobal
